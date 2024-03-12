@@ -1,6 +1,6 @@
 # Labor-Protection - a web-application for Occupational Safety and Health for your's workers!
 
-## Stack: 🐹Golang, Bootstrap, html, js, css, 🐘PostgreSQL, using 🐳Docker, MVC model
+## Stack: 🐹Golang, React, MUI, Redis, 🐘PostgreSQL, using 🐳Docker
 
 📊 A lot of work has been done
 
